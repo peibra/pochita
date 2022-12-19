@@ -1,4 +1,4 @@
 # pochita
 draws pochita from chainsawmans by fourier series expansion
 
-![pochita] (pochita.gif)
+![pochita] (https://github.com/peibra/pochita/blob/main/pochita.gif)
